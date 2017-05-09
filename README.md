@@ -1,12 +1,4 @@
-# Joe Seymour
-## Senior Manager, Software Engineering
+# My resume
 
-> [Download PDF](resume.pdf)  
-> [poindexter12@gmail.com](poindexter12@gmail.com)  
-> (714) 656-4593
-
-------
-
-### Profile {#profile}
-
-Blah blah
+- run this command: ./md2resume (html | pdf) resume.md output/
+- source from here: https://github.com/there4/markdown-resume
