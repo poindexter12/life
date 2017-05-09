@@ -1,7 +1,12 @@
-Joe Seymour
-============
+# Joe Seymour
+## Senior Manager, Software Engineering
 
--------------------     ----------------------------
-2403 Jacaranda Ave            poindexter12@gmail.com
-Carlsbad, CA                            714.656.4593
--------------------     ----------------------------
+> [Download PDF](resume.pdf)  
+> [poindexter12@gmail.com](poindexter12@gmail.com)  
+> (714) 656-4593
+
+------
+
+### Profile {#profile}
+
+Blah blah
