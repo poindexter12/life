@@ -7,7 +7,7 @@
 
 ------
 
-### Summary {#summary}
+### Profile {#profile}
 
 These are the things that I do really well. It should only be a couple of sentences.
 
@@ -25,8 +25,11 @@ These are the things that I do really well. It should only be a couple of senten
 
 ### Technical {#technical}
 
-- C#
-- .NET
+1. C#
+2. .NET
+3. Git / github
+4. Continuous Delivery
+5. Visual Studio
 
 ------
 
@@ -34,7 +37,7 @@ These are the things that I do really well. It should only be a couple of senten
 
 Becton Dickinson and Company
 : *Senior Manager, R&D Software Engineering*
-  __2010-Current__
+  __2010 to Current__
   Intrinsicly transform flexible manufactured products without excellent intellectual capital. Energistically evisculate orthogonal architectures through covalent action items. Assertively incentivize sticky platforms without synergistic materials.
 
 ------
@@ -49,6 +52,6 @@ ITT Technical Institute
 
 ### Footer {#footer}
 
-Joe Seymour -- poindexter12@gmail.com -- (714) 656-4593
+Joe Seymour -- [poindexter12@gmail.com](poindexter12@gmail.com) -- (714) 656-4593
 
 ------
