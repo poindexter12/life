@@ -9,17 +9,23 @@
 
 ### Profile {#profile}
 
-These are the things that I do really well. It should only be a couple of sentences.
+10 years of software development experience, with a focus on bleeding edge technologies.  5 years of experience managing software engineers and clients.  Strong interest and passion for understanding and developing software patterns and practices.
 
 ------
 
 ### Skills {#skills}
 
-* Web Design
-  : Assertively exploit wireless initiatives rather than synergistic core competencies.
+* Continuous Delivery
+  : Prioritize deployment and stability over new features.
 
-* Interface Design
-  : Credibly streamline mission-critical value with multifunctional functionalities.
+* Leadership
+  : TODO
+
+* Team Building
+  : Identify key members, recognize gaps, and provide career development.
+
+* Process
+  : Deliver projects using modern agile practices.
 
 ------
 
@@ -40,13 +46,26 @@ Becton Dickinson and Company
   __2010 to Current__
   Intrinsicly transform flexible manufactured products without excellent intellectual capital. Energistically evisculate orthogonal architectures through covalent action items. Assertively incentivize sticky platforms without synergistic materials.
 
+InterKnowlogy
+: *Senior Software Engineer*
+  __2008 to 2010__
+
+CT2 Technologies
+: *Principal Engineer*
+  __2006 to 2008__
+
+Lending Tree Loans
+: *Application Developer II*
+  __2005 to 2006__
+
 ------
 
 ### Education {#education}
 
 ITT Technical Institute
 : *Software Application Design*
-  __2000__
+  __2001 to 2003__
+  San Bernardino, CA
 
 ------
 
