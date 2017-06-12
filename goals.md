@@ -5,35 +5,35 @@
 - Travel - 
 - Wealth - savings, freedom, stability
 
-# Health
+## Health
 - 160 pounds
 - 15% body fat
 - meditate every day
 - soccer once a week
 - surf twice a week
 
-# Relationships
+## Relationships
 - husband
 - father
 - brother
 - son
 - friend
 
-# Abilities
+## Abilities
 - fishing
 - surfing
 - machine learning
 - reading
 
-# Travel
+## Travel
 
 
-# Wealth
+## Wealth
 - save for kids college
 - save for retirement
 - pay off house
 
-# Things
+## Things
 - house by the beach
 - house by the lake
 - blazer
