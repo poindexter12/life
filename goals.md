@@ -1,18 +1,39 @@
 # Categories
-- Health - diet, mindfulness, excercise
+- Health - diet, mindfulness, exercise
 - Relationships - husband, father, brother, son, friend
 - Ability - skill, knowledge, character
-- Travel
+- Travel - 
+- Wealth - savings, freedom, stability
 
-# Things I Want
+# Health
+- 160 pounds
+- 15% body fat
+- meditate every day
+- soccer once a week
+- surf twice a week
+
+# Relationships
+- husband
+- father
+- brother
+- son
+- friend
+
+# Abilities
+- fishing
+- surfing
+- machine learning
+- reading
+
+# Travel
+
+
+# Wealth
+- save for kids college
+- save for retirement
+- pay off house
+
+# Things
 - house by the beach
-- be a great father
-- be a great husband
-- buy a blazer
-- read more books
-
-# Abilities I Want
-- fishing / camping
-- learn how to surf
-- understand technology
-
+- house by the lake
+- blazer
