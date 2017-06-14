@@ -2,7 +2,7 @@
 - Health - diet, mindfulness, exercise
 - Relationships - husband, father, brother, son, friend
 - Ability - skill, knowledge, character
-- Travel - 
+- Travel
 - Wealth - savings, freedom, stability
 
 ## Health
@@ -26,7 +26,11 @@
 - reading
 
 ## Travel
-
+- virgin islands
+- tahiti
+- canada
+- scandanavia
+- alaska
 
 ## Wealth
 - save for kids college
