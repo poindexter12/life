@@ -8,6 +8,7 @@
 ## Health
 - 160 pounds
 - 15% body fat
+- eat well
 - meditate every day
 - soccer once a week
 - surf twice a week
@@ -22,7 +23,7 @@
 ## Abilities
 - fishing
 - surfing
-- machine learning
+- software development  
 - reading
 
 ## Travel

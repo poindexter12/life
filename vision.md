@@ -1,6 +1,1 @@
-# 10 things i enjoy doing
-
-# 3 things i need to do each week to feel fulfilled
-
-# 6 most important values
-
+My vision is to be a mindful and present pillar of my family, giving more than I take. I want to be have a healthly and active body and mind, continually excercising those everyday. I want to be well read, able to surf, capable at fishing, and continue to excel and software development. I want to be financially stable, saving for my children's college education, retirement for Jill and I, and paying off my house as quickly as possible. I would like to travel to Alaska, Cananda, Scandanavia, Tahiti and the Virgin Islands. I hope to have a house by the beach, a house by a lake, and a 1980 K5 blazer.
