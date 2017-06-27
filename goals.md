@@ -41,4 +41,3 @@
 ## Things
 - house by the beach
 - house by the lake
-- blazer
