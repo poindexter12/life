@@ -1,7 +1,6 @@
 # Joe Seymour
-## Senior Manager, R&D Software Engineering
+## Director, R&D Software Engineering
 
-> [Download PDF](resume.pdf)  
 > [poindexter12@gmail.com](poindexter12@gmail.com)  
 > (714) 656-4593
 
@@ -9,7 +8,7 @@
 
 ### Profile {#profile}
 
-Hands on software engineering manager. 10 years of software engineering experience, with a proven track record of delivering complete solutions.  5 years of experience managing, developing, and retaining software engineers.  Strong interest and passion for understanding and developing software patterns and practices.
+Hands on technical and software engineering leader. 10 years of software engineering experience, with a proven track record of delivering complete solutions. 5 years of experience in directing, developing, and retaining software engineers. Strong interest and passion for understanding and developing software patterns and practices.
 
 ------
 
