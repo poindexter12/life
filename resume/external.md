@@ -9,7 +9,7 @@
 
 ### Profile {#profile}
 
-Hands on software engineering manager. 10 years of software engineering experience, with a proven track record of delivering complete solutions.  5 years of experience managing, developing, and retaining software engineers.  Strong interest and passion for understanding and developing software patterns and practices. 
+Hands on software engineering manager. 10 years of software engineering experience, with a proven track record of delivering complete solutions.  5 years of experience managing, developing, and retaining software engineers.  Strong interest and passion for understanding and developing software patterns and practices.
 
 ------
 
@@ -48,14 +48,32 @@ Hands on software engineering manager. 10 years of software engineering experien
 
 ### Experience {#experience}
 
-Becton Dickinson and Company
+Becton, Dickinson and Company
+: *Director, R&D Software Engineering*
+  __2017 to Current__
+  Direction a team of 50+ software engineers, including employees, contractors, and outsource partners.
+  Evaluate, develop, mature senior development team and managers.
+  Provide strategy and leadership back to the business leadership.
+  Research technology and provide feasibility for overall business direction.
+  Responsible for new product development.
+  Multi year budget and financial planning to meet business goals.
+
+Becton, Dickinson and Company
 : *Senior Manager, R&D Software Engineering*
-  __2010 to Current__
-  Manage a team of 15 R&D software engineers.
-  Establish processes to unify our estimation, development, and continous delivery practices.
+  __2015 to 2017__
+  Manage a team of 15+ R&D software engineers.
+  Establish processes to unify our estimation, development, and continuous delivery practices.
   Provide project plan / estimations to the business for alignment of different verticals.
   Technical training planning and oversight for larger R&D organization with ~200 engineers.
   Heavy focus on developing and retaining talent.
+
+Becton, Dickinson and Company
+: *Senior Principal Software Engineer / Lead*
+  __2010 to 2015__
+  Create a UI Framework to facilitate rapid development of features.
+  Manage backlog and priorities for the technical team.
+  Identify key talent on team and provide input for their growth.
+  Introduce and train existing team members on WPF.
 
 InterKnowlogy
 : *Senior Software Engineer / Technical Lead*
