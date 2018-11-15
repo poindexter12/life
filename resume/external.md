@@ -1,5 +1,5 @@
 # Joe Seymour
-## Director, R&D Software Engineering
+## Chief Architect & Director, R&D Software Engineering
 
 > [poindexter12@gmail.com](poindexter12@gmail.com)  
 > (714) 656-4593
@@ -8,7 +8,16 @@
 
 ### Profile {#profile}
 
-Hands on technical and software engineering leader. 10 years of software engineering experience, with a proven track record of delivering complete solutions. 5 years of experience in directing, developing, and retaining software engineers. Strong interest and passion for understanding and developing software patterns and practices.
+Relentless problem solver. I have a passion for solving the toughest challenges with the simplest solution.
+
+Looking to ship software with high value and, at the same time, deliver quality solutions that captivate end users. This is a lifelong passion of mine that has lead me through a variety of different disciplines.
+
+Technology is rarely, if ever, the decisive factor in the ability to delivery great products with lasting success. Instead, a focus on people, customers, process, and culture lead to effective results.
+My life-long obsession with technology and gadgets have enabled me to understand the appropriate application of these technologies within the right business solution.
+
+From an expertise perspective, I have a wide range of experience in different solutions. From greenfield enterprise platforms to maintaining legacy products, each one of these requires appropriate attention and discipline. I have had both hands on as well as leadership roles in a variety of functional disciplines, including development, testing, architecture, devops, automation and the like. I have also worked with both onsite resources, offshore resources, and anything you can think of in between.
+
+Through it all, I have continued to rely on people, customers, process and culture to lead me down the path of success.
 
 ------
 
@@ -48,7 +57,7 @@ Hands on technical and software engineering leader. 10 years of software enginee
 ### Experience {#experience}
 
 Becton, Dickinson and Company
-: *Director, R&D Software Engineering*
+: *Chief Architect & Director, R&D Software Engineering*
   __2017 to Current__
   Direction a team of 50+ software engineers, including employees, contractors, and outsource partners.
   Evaluate, develop, mature senior development team and managers.
