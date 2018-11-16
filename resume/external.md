@@ -9,14 +9,14 @@
 ### Profile {#profile}
 
 Relentless problem solver. I have a passion for solving the toughest challenges with the simplest solution.
-
+<br/><br/>
 Looking to ship software with high value and, at the same time, deliver quality solutions that captivate end users. This is a lifelong passion of mine that has lead me through a variety of different disciplines.
-
+<br/><br/>
 Technology is rarely, if ever, the decisive factor in the ability to delivery great products with lasting success. Instead, a focus on people, customers, process, and culture lead to effective results.
 My life-long obsession with technology and gadgets have enabled me to understand the appropriate application of these technologies within the right business solution.
-
+<br/><br/>
 From an expertise perspective, I have a wide range of experience in different solutions. From greenfield enterprise platforms to maintaining legacy products, each one of these requires appropriate attention and discipline. I have had both hands on as well as leadership roles in a variety of functional disciplines, including development, testing, architecture, devops, automation and the like. I have also worked with both onsite resources, offshore resources, and anything you can think of in between.
-
+<br/><br/>
 Through it all, I have continued to rely on people, customers, process and culture to lead me down the path of success.
 
 ------
@@ -44,13 +44,13 @@ Through it all, I have continued to rely on people, customers, process and cultu
 
 1. C#
 2. .NET
-3. Git / github
-4. Continuous Delivery
-5. Visual Studio
-6. TeamCity
-7. Octopus Deploy
-8. Akka.NET
-9. Microservices
+3. git / Github
+4. Events / Messages
+5. TeamCity / Jenkins
+6. Azure
+7. Microservices
+8. RDBMS
+9. Document Storage
 
 ------
 
@@ -59,7 +59,7 @@ Through it all, I have continued to rely on people, customers, process and cultu
 Becton, Dickinson and Company
 : *Chief Architect & Director, R&D Software Engineering*
   __2017 to Current__
-  Direction a team of 50+ software engineers, including employees, contractors, and outsource partners.
+  Directing a team of 50+ software engineers, including employees, contractors, and outsource partners.
   Evaluate, develop, mature senior development team and managers.
   Provide strategy and leadership back to the business leadership.
   Research technology and provide feasibility for overall business direction.
